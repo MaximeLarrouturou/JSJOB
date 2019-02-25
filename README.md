@@ -25,9 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# jsjob
-# jsjob
 
+# Démarrer le projet avec deux lancement de consoles
+A l'aide de cd, démarrer nodemon dans backend (cd backend, puis nodemon)
+Dans une autre console ng serve
 # Angular CLI
 1. Initialiser un nouveau projet à l'aide de Angular CLI
 
