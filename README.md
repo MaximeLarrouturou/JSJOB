@@ -26,7 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # jsjob
+# jsjob
 
+# Angular CLI
 1. Initialiser un nouveau projet à l'aide de Angular CLI
 
 2. Structure du projet Angular généré par Angular CLI
