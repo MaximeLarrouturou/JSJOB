@@ -37,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 4. Importer le module HttpModule ou HttpClientModule
 
-Créer la partie Frontend avec Angular 4
+# Créer la partie Frontend avec Angular 4
 5. Effectuer une requête Ajax à l'aide de RxJS
 
 6. Intégrer (twitter) bootstrap
@@ -60,14 +60,14 @@ Créer la partie Frontend avec Angular 4
 
 15. Créer un panel à l'aide de (twitter) bootstrap
 
-Le routage côté Frontend
+# Le routage côté Frontend
 16. Mettre en oeuvre le routage
 
 17. Créer un menu de navigation
 
 18. Afficher les données existantes et ajoutées
 
-Créer un backend Node et interagir avec un client Angular 4
+# Créer un backend Node et interagir avec un client Angular 4
 19. Créer une API REST avec Express.js
 
 20. Envoyer un tableau d'objets via notre API REST
@@ -92,7 +92,7 @@ Créer un backend Node et interagir avec un client Angular 4
 
 30. Créer un pipe de formatage de monnaie
 
-Implémenter la recherche en Node et Angular
+# Implémenter la recherche en Node et Angular
 31. Implémenter la recherche côté serveur
 
 32. Implémenter la recherche côté client
@@ -101,7 +101,7 @@ Implémenter la recherche en Node et Angular
 
 34. Désactiver le bouton de soumission du formulaire de recherche
 
-Implémenter un système de création de comptes et de login avec JWT
+# Implémenter un système de création de comptes et de login avec JWT
 35. Créer le composant 'authentication'
 
 36. Gérer le login côté Frontend et Backend
@@ -126,7 +126,7 @@ Implémenter un système de création de comptes et de login avec JWT
 
 46. Afficher du contenu différent en fonction du rôle décodé depuis le token JWT
 
-Gérer l'accès à des ressources protégées à l'aide de JWT
+# Gérer l'accès à des ressources protégées à l'aide de JWT
 47. Créer un middleware permettant de récupérer un Header de type Authorization
 
 48. Afficher le formulaire d'ajout d'annonces uniquement aux utilisateurs connectés
@@ -135,7 +135,7 @@ Gérer l'accès à des ressources protégées à l'aide de JWT
 
 50. Vérifier le token côté serveur
 
-Enrichir la page de profil
+# Enrichir la page de profil
 51. Afficher le pseudo de l'utilisateur
 
 52. Récupérer les annonces passées par un utilisateur de base
